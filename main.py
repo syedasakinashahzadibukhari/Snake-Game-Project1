@@ -1,0 +1,1 @@
+computer=int(input("Enter ur choice"))
